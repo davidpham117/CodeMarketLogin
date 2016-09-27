@@ -1,0 +1,7 @@
+{
+  "name": "CodeMarketLogin",
+  "short_name": "CodeMarketLogin",
+  "description": "Login for codemarket",
+  "start_url": "/",
+  "display": "standalone"
+}
